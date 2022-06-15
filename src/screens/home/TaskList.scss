@@ -1,0 +1,65 @@
+.task-list{
+
+    max-width: 100rem;
+    margin:0 auto;
+    margin-top:2rem;
+
+    .no-task{
+
+        font-size:3rem;
+        color: var(--primary-color);
+    }
+
+    .task{
+        max-width: 67rem;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom:5rem;
+        box-shadow: 0 0 1rem var(--primary-color);
+        padding:1rem;
+        border-radius:1rem;
+
+
+        .first-col{
+            width:80%;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+
+        .name{
+            font-size:3.2rem;
+            color: var(--secondary-color);
+            margin-left:2.5rem;
+            }
+
+        .deadline{
+            font-size:2.6rem;
+            color: var(--primary-color);
+            }
+
+
+      
+
+
+
+
+        }
+
+        .second-col{
+
+            .del-btn{
+
+                .del-icon{
+                    
+                    font-size:3rem;
+                    color: rgb(232, 79, 79);
+                }
+            }
+
+        }
+
+
+    }
+
+}
