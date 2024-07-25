@@ -61,7 +61,7 @@ export const firebaseConfig = {
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [sahiljit.com](https://www.sahiljit.com)
+If you have any feedback, please reach out to me at [sahiljit.dev](https://www.sahiljit.dev)
 
 
 
